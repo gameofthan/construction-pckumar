@@ -5,7 +5,7 @@
 }
 
 .backgrounds-section {
-    background: url("backgrounds.jpg") no-repeat center center/cover;
+    background: url("backgroundss.jpeg") no-repeat center center/cover;
     height: 100vh;  /* full screen */
     display: flex;
     flex-direction: column;
@@ -24,7 +24,7 @@
  
   .backgrounds-text{
     text-align: center;
-    color: white;
+    color: yellow;
     padding-top: 180px;
   }
   .backgrounds-text h1{
